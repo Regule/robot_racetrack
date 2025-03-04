@@ -1,1 +1,1 @@
-Part of my COnstruct course.
+Part of my construct course.
